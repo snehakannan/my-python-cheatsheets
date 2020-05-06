@@ -1,6 +1,6 @@
 # General Python Commands
 
-#### Creating a virtual Environment
+### Creating a virtual Environment
 
 ```
 cd my-project-folder
@@ -8,7 +8,7 @@ virtualenv virtualenvname
 source virtualenvname/bin/activate
 ```
 
-#### Creating a virtual Environment with conda
+### Creating a virtual Environment with conda
 
 Creating a virtual environment with a package numpy.
 
@@ -31,7 +31,7 @@ activate python3venv
 
 ```
 
-#### List of all virtual environments
+### List of all virtual environments
 
 ```
 conda info --envs
